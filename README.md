@@ -1,4 +1,4 @@
-# 2048-game
+# 2048 Game
 Popular game 2048, programmed in C. This is my first project.
 
 ### Screenshots

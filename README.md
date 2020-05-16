@@ -2,20 +2,20 @@
 Popular game 2048, programmed in C. This is my first project.
 
 ### Screenshots
-![](https://i.imgur.com/LEccDL2.png)
+<img src="images/1.png"/>
 
-![](https://i.imgur.com/LFDezB7.png)
+<img src="images/2.png"/>
 
-![](https://i.imgur.com/4B0zVwd.png)
+<img src="images/3.png"/>
 
-![](https://i.imgur.com/AOHDVD3.png)
+<img src="images/4.png"/>
 
-![](https://i.imgur.com/BlD77j0.png)
+<img src="images/5.png"/>
 
-![](https://i.imgur.com/iNwA9dS.png)
+<img src="images/6.png"/>
 
-![](https://i.imgur.com/SOBfDXh.png)
+<img src="images/7.png"/>
 
-![](https://i.imgur.com/afYlhgO.png)
+<img src="images/8.png"/>
 
-![](https://i.imgur.com/HzuDjGv.png)
+<img src="images/9.png"/>
